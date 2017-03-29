@@ -1,0 +1,6 @@
+pyinstaller.exe -F PortalUpdate.py
+
+
+pyinstaller-pyinstaller-v3.2.1-178-g483dfde.tar.gz
+
+pyinstaller PortalUpdate.py
